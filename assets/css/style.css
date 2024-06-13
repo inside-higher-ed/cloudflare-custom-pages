@@ -52,3 +52,6 @@ footer p {
 section {
     text-align: center;
 }
+a:hover {
+   color: rgb(238 117 35/ 1)
+}
